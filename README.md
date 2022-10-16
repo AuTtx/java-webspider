@@ -8,6 +8,7 @@
 
 如何运行
 ----
+ide为idea2022.2，macbookair m2编译并运行
 配置maven依赖文件：
 ```java
 <dependencies>
